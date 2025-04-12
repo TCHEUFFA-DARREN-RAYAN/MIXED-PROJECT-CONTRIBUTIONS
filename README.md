@@ -21,7 +21,7 @@ This project blends practical tools with timeless games, all crafted in C# for s
 
 ## Get Started in a Snap ⚡
 
-1. Clone or download this repo.
+1. Clone or download this repo. : https://github.com/TCHEUFFA-DARREN-RAYAN/MIXED-PROJECT-CONTRIBUTIONS.git
 2. Open the solution in your favorite C# IDE (like Visual Studio).
 3. Build and launch any app or game to jump right in!
 
@@ -29,4 +29,6 @@ This project blends practical tools with timeless games, all crafted in C# for s
 
 Want to add your own twist? Fork the repo, tinker with the code, or suggest new ideas! This project thrives on creativity and collaboration.
 
-*Crafted with care by the MiniAppsAndGames team, including [Your Name or Handle, if you’d like] as a proud contributor.*
+*Crafted with care by the KINGSMAN team, including [TCHEUFFA-DARREN-RAYAN] as a proud contributor.*
+## LINKEDIN PROFILE : [https://www.linkedin.com/in/tcheuffa-darren-112214327/]
+## GITHUB REPOSITORY : [https://github.com/TCHEUFFA-DARREN-RAYAN]
