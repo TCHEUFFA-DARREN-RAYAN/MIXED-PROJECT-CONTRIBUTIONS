@@ -30,5 +30,5 @@ This project blends practical tools with timeless games, all crafted in C# for s
 Want to add your own twist? Fork the repo, tinker with the code, or suggest new ideas! This project thrives on creativity and collaboration.
 
 *Crafted with care by the KINGSMAN team, including [TCHEUFFA-DARREN-RAYAN] as a proud contributor.*
-# LINKEDIN PROFILE : [https://www.linkedin.com/in/tcheuffa-darren-112214327/]
-# GITHUB REPOSITORY : [https://github.com/TCHEUFFA-DARREN-RAYAN]
+## LINKEDIN PROFILE : [https://www.linkedin.com/in/tcheuffa-darren-112214327/]
+## GITHUB REPOSITORY : [https://github.com/TCHEUFFA-DARREN-RAYAN]
