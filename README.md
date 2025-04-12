@@ -1,6 +1,6 @@
 # MiniAppsAndGames 🎮✨
 
-Welcome to **MiniAppsAndGames**, a vibrant C# project packed with handy tools and nostalgic games that spark joy and creativity! Whether you’re generating barcodes, resizing images, or diving into retro gaming classics, this collection has it all. Built with passion by a talented team (including me as a contributor!( TCHEUFFA DARREN RAYAN )), these projects are your go-to for fun, learning, and practical utilities.
+Welcome to **MiniAppsAndGames**, a vibrant C# project packed with handy tools and nostalgic games that spark joy and creativity! Whether you’re generating barcodes, resizing images, or diving into retro gaming classics, this collection has it all. Built with passion by a talented team (including me as a contributor!( **TCHEUFFA DARREN RAYAN** )), these projects are your go-to for fun, learning, and practical utilities.
 
 
 ## What’s Inside? 🚀
