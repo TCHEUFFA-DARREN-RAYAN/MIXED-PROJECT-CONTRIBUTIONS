@@ -1,0 +1,3 @@
+C:\Users\DARREN\source\repos\Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.AssemblyReference.cache
+C:\Users\DARREN\source\repos\Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.Form1.resources
+C:\Users\DARREN\source\repos\Projects\C# Projects\01- Barcode\Barcode\obj\Debug\Barcode.csproj.GenerateResource.cache
